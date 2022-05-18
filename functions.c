@@ -1,5 +1,5 @@
 /**
- * _strlen - estimates the length of a string
+ * _strlen - find the length of a string
  * @s: pointer to the string to check
  * Return: void
 */
@@ -16,7 +16,7 @@ return (i);
 
 
 /**
- * *_strcpy - can copies the string pointed to by src
+ * *_strcpy -  copies the string pointed to by src
  * @dest: char type string
  * @src: char type string
  * Description: Copy the string pointed to by pointer `src` to
