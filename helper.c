@@ -1,6 +1,6 @@
 /*
  * File: helper.c
- * Authors: Maryam, Musa Ayomide
+ * Authors: Musa, Maryam Ayomide
  *          David, Charles Wisdom
  */
 
